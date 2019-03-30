@@ -13,5 +13,5 @@ def input_to_index(number)
 end 
 
 def move(board_array, index, players_char)
-  board_array[index] = players_char
+  # board_array[index] = players_char
 end
